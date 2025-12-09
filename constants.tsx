@@ -7,7 +7,7 @@ export const PROJECTS: Project[] = [
     id: 'p1',
     title: 'Neon Genesis Branding',
     category: 'Brand Design',
-    thumbnail: 'https://loremflickr.com/800/600/abstract,neon',
+    thumbnail: 'https://images.unsplash.com/photo-1605810230434-7631ac76ec81?q=80&w=800&auto=format&fit=crop', // Red/Black Technology Abstract
     description: 'Cyberpunk inspired brand identity for a tech startup.',
     fullDescription: 'A complete rebranding project for a fintech startup aiming to target Gen Z. utilized generative AI to create unique abstract textures that were then refined in Photoshop.',
     tools: ['Photoshop', 'Midjourney', 'Illustrator'],
@@ -17,7 +17,7 @@ export const PROJECTS: Project[] = [
     id: 'p2',
     title: 'Future City Commercial',
     category: 'Video Production',
-    thumbnail: 'https://loremflickr.com/800/1000/city,night',
+    thumbnail: 'https://images.unsplash.com/photo-1480796927426-f609979314bd?q=80&w=800&auto=format&fit=crop', // Tokyo/Neon City Night
     description: '30s TV spot featuring AI-generated backgrounds.',
     fullDescription: 'Directed and edited a commercial where the actors were filmed on green screen and composited into an AI-generated futuristic city environment.',
     tools: ['After Effects', 'Premiere Pro', 'RunwayML'],
@@ -27,7 +27,7 @@ export const PROJECTS: Project[] = [
     id: 'p3',
     title: 'AI Fashion Week Editorial',
     category: 'AI Art',
-    thumbnail: 'https://loremflickr.com/800/800/fashion,futuristic',
+    thumbnail: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=800&auto=format&fit=crop', // High Fashion Artistic Portrait
     description: 'Experimental fashion editorial using Stable Diffusion.',
     fullDescription: 'An exploration of non-existent fabrics and forms. This project challenged the boundaries of digital fashion.',
     tools: ['Stable Diffusion', 'ControlNet'],
@@ -37,7 +37,7 @@ export const PROJECTS: Project[] = [
     id: 'p4',
     title: 'Eco-Tech Dashboard UI',
     category: 'UI/UX',
-    thumbnail: 'https://loremflickr.com/800/500/interface,screen',
+    thumbnail: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=800&auto=format&fit=crop', // Data Dashboard (Fixed Link)
     description: 'Data visualization dashboard for renewable energy.',
     fullDescription: 'Designed a complex dashboard for monitoring solar panel efficiency. AI was used to generate mock data patterns for user testing.',
     tools: ['Figma', 'ChatGPT'],
@@ -47,7 +47,7 @@ export const PROJECTS: Project[] = [
     id: 'p5',
     title: 'Holographic Music Video',
     category: 'Motion Graphics',
-    thumbnail: 'https://loremflickr.com/800/1200/hologram,music',
+    thumbnail: 'https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=800&auto=format&fit=crop', // Cyberpunk/Hologram Vibe
     description: 'Lyric video with kinetic typography and holographic effects.',
     fullDescription: 'Produced a lyric video for an indie electronic artist. The holographic effects were achieved using custom shaders.',
     tools: ['Cinema 4D', 'After Effects'],
@@ -57,7 +57,7 @@ export const PROJECTS: Project[] = [
     id: 'p6',
     title: 'Product Launch 3D',
     category: '3D Design',
-    thumbnail: 'https://loremflickr.com/800/600/product,minimal',
+    thumbnail: 'https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=800&auto=format&fit=crop', // Abstract Fluid 3D Oil
     description: 'Photorealistic 3D product rendering.',
     fullDescription: 'High-fidelity renders for a new smartwatch launch. Lighting setups were assisted by AI lighting tools.',
     tools: ['Blender', 'Photoshop'],
